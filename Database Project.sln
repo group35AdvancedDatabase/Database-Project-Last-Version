@@ -7,20 +7,21 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Database Project(1)", "Data
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1869"
-		Debug.AspNetCompiler.PhysicalPath = "D:\Database Project-Last-Version(1)\Database Project\"
+		Debug.AspNetCompiler.PhysicalPath = "Database Project\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1869\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_1869"
-		Release.AspNetCompiler.PhysicalPath = "D:\Database Project-Last-Version(1)\Database Project\"
+		Release.AspNetCompiler.PhysicalPath = "Database Project\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1869\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "1869"
+		SlnRelativePath = "Database Project\"
 	EndProjectSection
 EndProject
 Global
