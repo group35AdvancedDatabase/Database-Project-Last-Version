@@ -10,7 +10,7 @@
                     <h1>Manage your favourite recipes online</h1>
                     <p>Create your personal cookbook with "Time Food" to collect recipes from the Internet and add your own ones</p>
                     <button type="button" class="btn btn-info try-button" disabled="disabled">Try it today!</button>
-                    <p class="follow">Also follows us in social media!</p>
+                    <p class="follow">Also follows us in social media!</p> 
                     <ul class="follow-media">
                         <li class="facebook"><a href="https://www.facebook.com/"><img src="img/facebook-icon.png" class="nav-img"/></a></li>
                         <li class="youtube"><a href="https://www.youtube.com/"><img src="img/youtube-icon.png" class="nav-img"/></a></li>
